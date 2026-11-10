@@ -1,0 +1,1 @@
+{"version":3,"file":"tarea.interface.d.ts","sourceRoot":"","sources":["../../src/interfaces/tarea.interface.ts"],"names":[],"mappings":"AACA,MAAM,MAAM,SAAS,GAAG,MAAM,GAAG,OAAO,GAAG,MAAM,CAAC;AAGlD,MAAM,WAAW,KAAK;IACpB,EAAE,EAAE,MAAM,CAAC;IACX,MAAM,EAAE,MAAM,CAAC;IACf,SAAS,EAAE,SAAS,CAAC;IACrB,UAAU,EAAE,OAAO,CAAC;CACrB"}
